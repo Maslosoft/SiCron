@@ -1,0 +1,20 @@
+{
+	"name": "maslosoft/sicron",
+	"license": "New BSD",
+	"authors": [
+		{
+			"name": "Peter Maselkowski",
+			"email": "pmaselkowski@gmail.com",
+			"homepage": "http://maslosoft.com",
+			"role": "Developer"
+		}
+	],
+	"require": {
+		"maslosoft/signals": "*",
+	},
+	"autoload": {
+		"psr-0": {
+			"Maslosoft\\SiCron": "./"
+		}
+	}
+}
