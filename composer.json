@@ -10,7 +10,7 @@
 		}
 	],
 	"require": {
-		"maslosoft/signals": "*",
+		"maslosoft/signals": "*"
 	},
 	"autoload": {
 		"psr-0": {
