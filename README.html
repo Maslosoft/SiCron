@@ -396,6 +396,13 @@ pre code, pre tt {
 <body>
     <a name="maslosoft_sicron"></a><h1>Maslosoft SiCron<a class="anchorlink" href="#maslosoft_sicron"></a></h1>
 <h6>Signals based cron component</h6>
+<a name="usage"></a><h2>Usage<a class="anchorlink" href="#usage"></a></h2>
+<p>Add to crontab</p>
+<pre class="prettyprint">* * * * * /path/to/application/maslosoft sicron minute
+0 * * * * /path/to/application/maslosoft sicron hour
+0 0 * * * /path/to/application/maslosoft sicron day
+* * * * 0 /path/to/application/maslosoft sicron week
+* * 1 * * /path/to/application/maslosoft sicron month</pre>
 <a name="resources"></a><h2>Resources<a class="anchorlink" href="#resources"></a></h2>
 <ul class="list">
 <li><a href="http://maslosoft.com/en/open-source/sicron/">Project website</a></li>
