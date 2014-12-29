@@ -13,8 +13,8 @@
 		"maslosoft/signals": "1.*"
 	},
 	"autoload": {
-		"psr-0": {
-			"Maslosoft\\SiCron": "./"
+		"psr-4": {
+			"Maslosoft\\SiCron\\": "src/"
 		}
 	}
 }
