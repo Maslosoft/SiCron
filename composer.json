@@ -1,6 +1,9 @@
 {
 	"name": "maslosoft/sicron",
-	"license": "AGPL or Commercial",
+	"license": [
+		"AGPL",
+		"Commercial"
+	],
 	"authors": [
 		{
 			"name": "Peter Maselkowski",
