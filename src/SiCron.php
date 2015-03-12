@@ -8,12 +8,12 @@
 
 namespace Maslosoft\SiCron;
 
-use Maslosoft\Components\Application\ICommand;
+use Maslosoft\Ilmatar\Components\Application\ICommand;
 use Maslosoft\Signals\Signal;
 
 /**
  * SiCron
- * @SignalFor('Maslosoft\Components\Application')
+ * @SignalFor('Maslosoft\Ilmatar\Components\Application')
  * @author Piotr Maselkowski <pmaselkowski at gmail.com>
  */
 class SiCron implements ICommand
