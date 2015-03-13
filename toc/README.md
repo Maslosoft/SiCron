@@ -13,7 +13,7 @@
 
 ### Quick Install
 ```bash
-	composer require maslosoft/sicron:"*"
+composer require maslosoft/sicron:"*"
 ```
 
 <!--/header-->
