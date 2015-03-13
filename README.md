@@ -1,5 +1,22 @@
-#Maslosoft SiCron
-###### Signals based cron component
+<!--header-->
+<!-- Auto generated do not modify between `header` and `/header` -->
+
+# <a href="http://maslosoft.com/sicron/">Maslosoft Sicron</a>
+<a href="http://maslosoft.com/sicron/">_Signals based cron_</a>
+
+<a href="https://packagist.org/packages/maslosoft/sicron" title="Latest Stable Version">
+<img src="https://poser.pugx.org/maslosoft/sicron/v/stable.svg" alt="Latest Stable Version" style="height: 20px;"/>
+</a>
+<a href="https://packagist.org/packages/maslosoft/sicron" title="License">
+<img src="https://poser.pugx.org/maslosoft/sicron/license.svg" alt="License" style="height: 20px;"/>
+</a>
+
+### Quick Install
+```bash
+	composer require maslosoft/sicron:"*"
+```
+
+<!--/header-->
 
 ## Usage
 
@@ -13,7 +30,7 @@ Add to crontab
 
 ## Resources
 
- * [Project website](http://maslosoft.com/en/open-source/sicron/)
+ * [Project website](http://maslosoft.com/sicron/)
  * [Project Page on GitHub](https://github.com/Maslosoft/SiCron)
  * [Report a Bug](https://github.com/Maslosoft/SiCron/issues)
 

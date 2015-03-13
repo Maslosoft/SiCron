@@ -19,5 +19,6 @@
 		"psr-4": {
 			"Maslosoft\\SiCron\\": "src/"
 		}
-	}
+	},
+	"description": "Signals based cron"
 }
