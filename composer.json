@@ -12,12 +12,15 @@
 			"role": "Developer"
 		}
 	],
+	"bin": [
+		"sicron"
+	],
 	"require": {
 		"maslosoft/signals": "1.*"
 	},
 	"autoload": {
 		"psr-4": {
-			"Maslosoft\\SiCron\\": "src/"
+			"Maslosoft\\SiCron\\": "src"
 		}
 	},
 	"description": "Signals based cron"
