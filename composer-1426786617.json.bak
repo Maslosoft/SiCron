@@ -1,0 +1,28 @@
+{
+	"name": "maslosoft/sicron",
+	"license": [
+		"AGPL",
+		"Commercial"
+	],
+	"authors": [
+		{
+			"name": "Peter Maselkowski",
+			"email": "pmaselkowski@gmail.com",
+			"homepage": "http://maslosoft.com",
+			"role": "Developer"
+		}
+	],
+	"bin": [
+		"sicron"
+	],
+	"minimum-stability": "dev",
+	"require": {
+		"maslosoft/signals": "1.*"
+	},
+	"autoload": {
+		"psr-4": {
+			"Maslosoft\\SiCron\\": "src"
+		}
+	},
+	"description": "Signals based cron"
+}
