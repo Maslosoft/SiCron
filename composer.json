@@ -16,7 +16,7 @@
 		"sicron"
 	],
 	"require": {
-		"maslosoft/signals": "1.*"
+		"maslosoft/signals": "*"
 	},
 	"autoload": {
 		"psr-4": {
