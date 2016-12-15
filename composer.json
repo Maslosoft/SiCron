@@ -23,5 +23,6 @@
 			"Maslosoft\\SiCron\\": "src"
 		}
 	},
-	"description": "Signals based cron"
+	"description": "Signals based cron",
+	"homepage": "https://maslosoft.com/sicron/"
 }
