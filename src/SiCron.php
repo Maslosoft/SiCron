@@ -8,6 +8,7 @@
 
 namespace Maslosoft\SiCron;
 
+use Maslosoft\Addendum\Interfaces\AnnotatedInterface;
 use Maslosoft\Ilmatar\Components\Application\ICommand;
 use Maslosoft\Signals\Signal;
 
@@ -16,7 +17,7 @@ use Maslosoft\Signals\Signal;
  * @SignalFor('Maslosoft\Ilmatar\Components\Application')
  * @author Piotr Maselkowski <pmaselkowski at gmail.com>
  */
-class SiCron implements ICommand
+class SiCron implements ICommand, AnnotatedInterface
 {
 
 	public function run($interval)
