@@ -9,12 +9,12 @@
 namespace Maslosoft\SiCron;
 
 use Maslosoft\Addendum\Interfaces\AnnotatedInterface;
-use Maslosoft\Ilmatar\Components\Application\ICommand;
+use Maslosoft\Components\Application\ICommand;
 use Maslosoft\Signals\Signal;
 
 /**
  * SiCron
- * @SignalFor('Maslosoft\Ilmatar\Components\Application')
+ * @SignalFor('Maslosoft\Components\Application')
  * @author Piotr Maselkowski <pmaselkowski at gmail.com>
  */
 class SiCron implements ICommand, AnnotatedInterface
