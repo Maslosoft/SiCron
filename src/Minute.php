@@ -8,14 +8,15 @@
 
 namespace Maslosoft\SiCron;
 
-use Maslosoft\Signals\ISignal;
+use Maslosoft\SiCron\Interfaces\CronIntervalInterface;
+use Maslosoft\Signals\Interfaces\SignalInterface;
 
 /**
  * Minute
  *
  * @author Piotr Maselkowski <pmaselkowski at gmail.com>
  */
-class Minute implements ISignal, ICronInterval
+class Minute implements SignalInterface, CronIntervalInterface
 {
 
 }

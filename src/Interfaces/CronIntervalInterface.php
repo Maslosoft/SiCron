@@ -6,13 +6,13 @@
  * and open the template in the editor.
  */
 
-namespace Maslosoft\SiCron;
+namespace Maslosoft\SiCron\Interfaces;
 
 /**
  *
  * @author Piotr Maselkowski <pmaselkowski at gmail.com>
  */
-interface ICronInterval
+interface CronIntervalInterface
 {
 	
 }

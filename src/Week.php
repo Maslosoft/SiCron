@@ -8,14 +8,15 @@
 
 namespace Maslosoft\SiCron;
 
-use Maslosoft\Signals\ISignal;
+use Maslosoft\SiCron\Interfaces\CronIntervalInterface;
+use Maslosoft\Signals\Interfaces\SignalInterface;
 
 /**
  * Week
  *
  * @author Piotr Maselkowski <pmaselkowski at gmail.com>
  */
-class Week implements ISignal, ICronInterval
+class Week implements SignalInterface, CronIntervalInterface
 {
 
 }

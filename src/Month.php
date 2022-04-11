@@ -8,14 +8,15 @@
 
 namespace Maslosoft\SiCron;
 
-use Maslosoft\Signals\ISignal;
+use Maslosoft\SiCron\Interfaces\CronIntervalInterface;
+use Maslosoft\Signals\Interfaces\SignalInterface;
 
 /**
  * Month
  *
  * @author Piotr Maselkowski <pmaselkowski at gmail.com>
  */
-class Month implements ISignal, ICronInterval
+class Month implements SignalInterface, CronIntervalInterface
 {
 
 }
