@@ -16,6 +16,15 @@
 composer require maslosoft/sicron
 ```
 
+### Documentation
+
+<a href="https://maslosoft.com/sicron/docs/">Full Sicron Documentation</a>
+
+
+
+### Collect cron jobs with [signals](/signals/)
+
+
 <!--/header-->
 
 ## Usage
