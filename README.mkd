@@ -1,7 +1,7 @@
 <!--header-->
 <!-- Auto generated do not modify between `header` and `/header` -->
 
-# <a href="https://maslosoft.com/sicron/">Maslosoft Sicron</a>
+# <a href="https://maslosoft.com/sicron/"><img src="https://maslosoft.com/sicron/sicron.svg" style="height:24px;" alt="Sicron Logo"></a> <a href="https://maslosoft.com/sicron/">Maslosoft Sicron</a>
 <a href="https://maslosoft.com/sicron/">_Signals based cron_</a>
 
 <a href="https://packagist.org/packages/maslosoft/sicron" title="Latest Stable Version">
